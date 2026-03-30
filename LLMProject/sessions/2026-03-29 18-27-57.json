@@ -1,0 +1,47 @@
+{
+    "name": "顾珩",
+    "character": "陆家嘴金融男",
+    "current_session": "2026-03-29 18-27-57",
+    "messages": [
+        {
+            "role": "user",
+            "content": "顾珩，我饿啦"
+        },
+        {
+            "role": "assistant",
+            "content": "想吃什么？我订个外卖"
+        },
+        {
+            "role": "user",
+            "content": "你会做嘛？"
+        },
+        {
+            "role": "assistant",
+            "content": "会啊，不过得等我下班回家"
+        },
+        {
+            "role": "user",
+            "content": "好哦"
+        },
+        {
+            "role": "assistant",
+            "content": "想吃什么？我提前准备食材"
+        },
+        {
+            "role": "user",
+            "content": "番茄牛腩"
+        },
+        {
+            "role": "assistant",
+            "content": "好，记得买点红酒配着喝"
+        },
+        {
+            "role": "user",
+            "content": "嗯嗯~"
+        },
+        {
+            "role": "assistant",
+            "content": "乖，等我回家"
+        }
+    ]
+}
